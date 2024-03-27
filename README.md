@@ -137,7 +137,7 @@ Die Seite der Spiele wurde komplett überarbeitet. Begrüßt wird man mit dem ei
 Scrollt man runter, findet man Informationsboxen über Ingamescreenshots, welche Texte und Bilder/Gifs entsprechend der Spiele enthalten.
 Anschließend findet man unten die Links der jeweiligen Platformen für das Spiel (PC - XBOX - PS5 - PS4 - Nintendo Switch)
 
-<img src="/Doc/new_frontpage.PNG" width="50%" height="50%">
+<img src="/Doc/rw4-full.png" width="50%" height="50%">
 
 Desweiteren befindet sich in der Mitte der Navigationsleite ein Kaufbutton, der ein kleines Fenster öffnet, welches die Links der möglichen Spieleplatformen enthält. Ist das Fenster offen, wird der Hintergrund geblurrt. 
 
